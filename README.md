@@ -11,7 +11,7 @@ A project for Flutter International Hackathon Hack19
 
 ## What is Spacer Translator
 
-Spacer Translator is an app for a traveller or learner to translate from any language to their device's Local language as well as from any given set of languages to any given set of languages. They can also listen the translated result.
+Spacer Translator is an app for a traveller or learner to translate text from any language to their device's Local language as well as from any given set of languages to any given set of languages. They can also listen the translated result.
 
 ## Contributing
 
