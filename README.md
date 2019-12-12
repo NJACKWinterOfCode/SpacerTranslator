@@ -1,8 +1,7 @@
 # Spacer Translator
 
-A project for Flutter International Hackathon Hack19
 
-### Feature
+### Features
 
 <ul><li>Conversion of Text from any language to local language</li></ul>
 <p align="center"><img src="images/local.jpeg" width=320></p>
